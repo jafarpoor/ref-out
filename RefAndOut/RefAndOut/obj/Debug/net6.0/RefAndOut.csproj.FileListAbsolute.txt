@@ -1,0 +1,15 @@
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\bin\Debug\net6.0\RefAndOut.exe
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\bin\Debug\net6.0\RefAndOut.deps.json
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\bin\Debug\net6.0\RefAndOut.runtimeconfig.json
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\bin\Debug\net6.0\RefAndOut.dll
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\bin\Debug\net6.0\RefAndOut.pdb
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOut.csproj.AssemblyReference.cache
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOut.AssemblyInfo.cs
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOut.dll
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\refint\RefAndOut.dll
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOut.pdb
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOut.genruntimeconfig.cache
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\ref\RefAndOut.dll
