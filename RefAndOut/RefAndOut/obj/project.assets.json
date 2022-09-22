@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jafapour\\ref-out\\RefAndOut\\RefAndOut\\RefAndOut.csproj",
-      "projectName": "RefAndOut",
-      "projectPath": "C:\\Users\\jafapour\\ref-out\\RefAndOut\\RefAndOut\\RefAndOut.csproj",
+      "projectUniqueName": "C:\\Users\\jafapour\\ref-out\\RefAndOut\\RefAndOut\\RefAndOutAndTuple.csproj",
+      "projectName": "RefAndOutAndTuple",
+      "projectPath": "C:\\Users\\jafapour\\ref-out\\RefAndOut\\RefAndOut\\RefAndOutAndTuple.csproj",
       "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jafapour\\ref-out\\RefAndOut\\RefAndOut\\obj\\",
       "projectStyle": "PackageReference",

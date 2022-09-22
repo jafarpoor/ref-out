@@ -1,0 +1,15 @@
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\bin\Debug\net6.0\RefAndOutAndTuple.exe
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\bin\Debug\net6.0\RefAndOutAndTuple.deps.json
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\bin\Debug\net6.0\RefAndOutAndTuple.runtimeconfig.json
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\bin\Debug\net6.0\RefAndOutAndTuple.dll
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\bin\Debug\net6.0\RefAndOutAndTuple.pdb
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOutAndTuple.csproj.AssemblyReference.cache
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOutAndTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOutAndTuple.AssemblyInfoInputs.cache
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOutAndTuple.AssemblyInfo.cs
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOutAndTuple.csproj.CoreCompileInputs.cache
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOutAndTuple.dll
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\refint\RefAndOutAndTuple.dll
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOutAndTuple.pdb
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\RefAndOutAndTuple.genruntimeconfig.cache
+C:\Users\jafapour\ref-out\RefAndOut\RefAndOut\obj\Debug\net6.0\ref\RefAndOutAndTuple.dll
